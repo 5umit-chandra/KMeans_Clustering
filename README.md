@@ -1,5 +1,5 @@
 
-# Customer Segmentation with Unsupervised Machine Learning
+# Customer Segmentation with Machine Learning
 
 In this [Customer_Segmentation_KMeans.ipynb](Customer_Segmentation_KMeans.ipynb), I use KMeans clustering to segment customers based on their purchase behavior. It showcases essential data science and machine learning techniques, offering practical insights into customer segmentation.
 
