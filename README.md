@@ -21,7 +21,7 @@ In this [Customer_Segmentation_KMeans.ipynb](Customer_Segmentation_KMeans.ipynb)
 - **Machine Learning:** KMeans clustering for customer segmentation
 - **Data Visualization Techniques:** Seaborn and Matplotlib for insightful visualizations
 
-## Benefits
+## By segmenting customers, we can:
 
 - **Tailor Marketing Campaigns:** Target specific segments with relevant messaging and offers
 - **Improve Customer Experience:** Provide personalized recommendations and promotions
