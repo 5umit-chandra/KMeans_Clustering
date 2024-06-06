@@ -8,7 +8,7 @@ In this [Customer_Segmentation_KMeans.ipynb](Customer_Segmentation_KMeans.ipynb)
 1. **Data Exploration and Preprocessing**
 2. **Feature Engineering** (_Derived new features_)
 3. **Data Transformation** (_Scaling numerical features and one-hot encoding categorical features_)
-4. **KMeans Clustering** (_Elbow Method to identifying etermine the optimal clusters_)
+4. **KMeans Clustering** (_Elbow Method to identify optimal clusters_)
 5. **Visualization**
 
 ## Libraries Used
