@@ -17,9 +17,10 @@ In this [Customer_Segmentation_KMeans.ipynb](Customer_Segmentation_KMeans.ipynb)
 
 ## Highlights
 
-- **Data Science Fundamentals:** Data handling, exploration, and feature engineering
-- **Machine Learning:** KMeans clustering for customer segmentation
-- **Data Visualization Techniques:** Seaborn and Matplotlib for insightful visualizations
+- **Data Science Fundamentals**: Data handling, exploration, and feature engineering.
+- **Data Preprocessing**: Date conversions, **Outlier Handling** using the Interquartile Range, and transforming features with **OneHotEncoder** and StandardScaler.
+- **Machine Learning**: Used the **Elbow Method** to determine the optimal number of clusters for customer segmentation with **KMeans**.
+- **Data Visualization Techniques**: Created visualizations and insights into cluster characteristics.
 
 ## By segmenting customers, we can:
 
